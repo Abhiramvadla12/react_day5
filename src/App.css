@@ -1,0 +1,8 @@
+.frame{
+  border: 2px solid blue;
+  padding: 10px;
+  /* display: flex; */
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+
+}

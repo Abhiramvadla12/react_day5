@@ -1,0 +1,19 @@
+.cards{
+    height: 600px;
+    width: 750px;
+    
+    overflow-y: scroll;
+}
+.anime_cards{
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    
+}
